@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="logo_description">Logo aplikace</string>
+    <string name="welcome_text">Vítejte!</string>
+    <string name="email_hint">E-mailová adresa</string>
+    <string name="password_hint">Heslo</string>
+    <string name="forgot_password">Zapomenuté heslo?</string>
+    <string name="login">Přihlásit se</string>
+    <string name="register">Nemáte účet? Zaregistrujte se.</string>
+    <string name="app_name">Diplomka</string>
+</resources>
